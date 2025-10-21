@@ -27,11 +27,10 @@ I work primarily with these tools to bring ideas to life:
 | **Database** | `MySQL` |
 | **DevOps** | `AWS`, `Git` |
 
----
+
 
 ### 📊 GitHub Activity
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=engineertareq&show_icons=true&theme=dark&hide_border=true&border_radius=5)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engineertareq&layout=compact&theme=dark&hide_border=true&border_radius=5)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
