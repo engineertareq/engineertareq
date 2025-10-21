@@ -1,24 +1,51 @@
-## Hi there 👋
+# TANJIMUL ISLAM TAREQ ✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-<!--
-**engineertareq/engineertareq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Developer | Creator | Problem Solver
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 Snapshot
+
+> About Me
+
+- 🔭 Currently exploring: **[New language, framework, & skills]**.
+- 🌱 Always improving: **Clean Code** and **System Design**.
+- 💬 Ask me about: **[WP, PHP, HTML5]**.
+- ⚡ Hobby: **[Travelling]**
+
+---
+
+### 🛠️ Core Stack
+
+I work primarily with these tools to bring ideas to life:
+
+| Category | Key Technologies |
+| :--- | :--- |
+| **Languages** | `JavaScript`, `C#`, `PHP`, `C` |
+| **Backend** | `PHP`, `Django`, `Go` |
+| **Frontend** | `Bootstrap`, `Next.js`, `HTML5`, `CSS3` |
+| **Database** | `MySQL` |
+| **DevOps** | `AWS`, `Git` |
+
+---
+
+### 📊 GitHub Activity
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=engineertareq&show_icons=true&theme=dark&hide_border=true&border_radius=5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engineertareq&layout=compact&theme=dark&hide_border=true&border_radius=5)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### 🔗 Connect
+
+| Platform | Link |
+| :--- | :--- |
+| **Portfolio** | [Click Here](http://engineertareq.com/) |
+| **LinkedIn** | [Click Here](https://bd.linkedin.com/in/tanjimulislamtareq/tr) |
+| **Email** | [support@engineertareq.com] |
+
+---
+
+<p align="center">
+  Thanks for stopping by! Let's build something great.
+</p>
