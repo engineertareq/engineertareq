@@ -35,11 +35,6 @@
 
 
 
-<div align="center">
-<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
-<p><a href="https://github.com/engineertareq"><img src="https://github-readme-stats.vercel.app/api?username=engineertareq&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;locale=en" alt=""></a>
-<a href="https://github.com/engineertareq"><img src="https://github-readme-streak-stats.herokuapp.com/?user=engineertareq&amp;theme=material-palenight" alt=""></a></p>
-</div>
 
 
 
