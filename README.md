@@ -24,7 +24,7 @@
 #### 🛠️ Core Stack  
 
 **Languages:** `JavaScript`, `C#`, `PHP`, `C`  
-**Backend:** `PHP`, `Django`, `Go`  
+**Backend:** `PHP` 
 **Frontend:** `Bootstrap`, `Next.js`, `HTML5`, `CSS3`  
 **Database:** `MySQL`  
 **DevOps:** `AWS`, `Git`
